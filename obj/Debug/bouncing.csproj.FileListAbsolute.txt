@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.Form1.resources
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.Properties.Resources.resources
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bouncing\bin\Debug\bouncing.exe.config
+C:\Users\PC\Desktop\bouncing\bin\Debug\bouncing.exe
+C:\Users\PC\Desktop\bouncing\bin\Debug\bouncing.pdb
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.exe
+C:\Users\PC\Desktop\bouncing\obj\Debug\bouncing.pdb
